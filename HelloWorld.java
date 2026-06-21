@@ -3,8 +3,8 @@ public class HelloWorld {
         int age = 17;
         double height = 5.5;
         boolean learning = true;
-        char initial = j;
-        String name = jensen;
+        char initial = 'J';
+        String name = "Jensen";
         System.out.println("my age is " + age);
         System.out.println("my height is " + height);
         System.out.println("am i learning? " + learning);
