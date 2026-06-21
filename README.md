@@ -6,4 +6,4 @@ My Java learning journey
 - [ ] Varibles and data types
 
 ## Notes
-I've just started my journy on June 21, 2026. I so far plan to go through the basics.
+I've just started my journey on June 21, 2026. I so far plan to go through the basics.
